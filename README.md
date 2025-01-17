@@ -1,16 +1,150 @@
-<h1 align="center">Hi 👋, I'm Tomasz Bielicki</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h1 align="left">Hello 👋</h1>
 
-- 🔭 I’m currently working in my free time on **React + MUI web site for building company**
+###
 
-- 🌱 I’m currently learning **gcp associate ceritificate**
+<p align="left">My name is Tomasz Bielicki and I'm a Frontend developer, from Poland.</p>
 
-- 📫 How to reach me **tomek.bielicki@gmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tomasz-bielicki-b7703319b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomasz-bielicki-b7703319b" height="30" width="40" /></a>
-</p>
+<h2 align="left">About me</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+###
+
+<p align="left">✨ I’m currently working in my free time on React + MUI website for building company<br>📚 I'm currently learning Google cloud platform<br>🎯 Goals: GCP Associate - certification</p>
+
+###
+
+<h2 align="left">Programming Languages</h2>
+
+###
+
+<div align="left">
+  <table style="border: 0; border-spacing: 0; border-collapse: collapse;">
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /><br>JavaScript
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /><br>TypeScript
+      </td>
+    </tr>
+  </table>
+</div>
+
+###
+
+<h2 align="left">Frameworks</h2>
+
+###
+
+<div align="left">
+  <table style="border: 0; border-spacing: 0; border-collapse: collapse;">
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /><br>React
+      </td>
+    </tr>
+  </table>
+</div>
+
+###
+
+<h2 align="left">Styling</h2>
+
+###
+
+<div align="left">
+  <table style="border: 0; border-spacing: 0; border-collapse: collapse;">
+    <tr>
+      <td align="center" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" /><br>CSS
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" /><br>HTML
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SASS logo" /><br>SASS
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material UI logo" /><br>Material UI
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="Styled Components logo" /><br>Styled Components
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+###
+
+<h2 align="left">Tools</h2>
+
+###
+
+<div align="left">
+  <table style="border: 0; border-spacing: 0; border-collapse: collapse;">
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo" /><br>Webpack
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo" /><br>Redux
+      </td>
+    </tr>
+  </table>
+</div>
+
+###
+
+<h2 align="left">DevOps</h2>
+
+###
+
+<div align="left">
+  <table style="border: 0; border-spacing: 0; border-collapse: collapse;">
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" /><br>Google Cloud
+      </td>
+    </tr>
+  </table>
+</div>
+
+###
+
+<h2 align="left">Version control</h2>
+
+###
+
+<div align="left">
+  <table style="border: 0; border-spacing: 0; border-collapse: collapse;">
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /><br>Git
+      </td>
+    </tr>
+  </table>
+</div>
+
+###
+
+<h2 align="left">Where to find me</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/tomasz-bielicki-b7703319b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tomaszbielicki&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomaszbielicki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
