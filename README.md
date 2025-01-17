@@ -129,16 +129,31 @@
 </div>
 
 ###
-
 <h2 align="left">Where to find me</h2>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/tomasz-bielicki-b7703319b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+  <table style="border: 0; border-spacing: 0; border-collapse: collapse;">
+    <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/tomasz-bielicki-b7703319b/" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /><br>LinkedIn
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:tomasz.bielicki@gmail.com" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /><br>Gmail
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
+
+###
+
+<h2 align="left">GitHub Stats</h2>
 
 ###
 
